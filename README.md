@@ -7,5 +7,5 @@ avec FastF1 et matplotlib.
 
 ## Lancer le projet
 pip install fastf1 matplotlib
-python Main.py# f1-telemetry-comparison
+python graphique.py# f1-telemetry-comparison
 # f1-telemetry-comparison
